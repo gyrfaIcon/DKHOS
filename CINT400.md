@@ -10,9 +10,9 @@ Google arama motorunda inurl:/joinchat/ şeklinde arama yapıldığında bu ifad
 
 <img src="https://github.com/gyrfaIcon/DKHOS/blob/master/2.png" alt="Telegram grup sohbeti" />
 
-Bu bağlantıdan grup sohbetine dahil olundu. Grup sohbetinde geçmişte gönderilmiş Arapça bir kaç mesaj mevcuttu. Bu mesajların arasında koordinat bilgisi ve hicri takvime göre bir tarih yer alıyordu. Koordinat bilgisi alınıp ipucu doğrultusunda dünyadaki iç savaşlar hakkında anlık haber sunan Liveuamap adlı internet sitesine ilgili koordinatlar girildi. 
+Bu bağlantıdan grup sohbetine dahil olundu. Grup sohbetinde geçmişte gönderilmiş Arapça bir kaç mesaj mevcuttu. Bu mesajların arasında koordinat bilgisi ve hicri takvime göre bir tarih yer alıyordu. Koordinat bilgisi alınıp ipucu doğrultusunda dünyadaki iç savaşlar hakkında anlık haber sunan Liveuamap adlı internet sitesine girildi. 
 
-Bu siteye girildiğinde sitenin sağ tarafında "TIME" başlıklı bir bölme yer alıyordu ve bu bölme mesajlar arasında tarih bilgisininde yer alması sebebiyle direk göze çarpmıştı. 
+Bu siteye girildiğinde sitenin sağ tarafında "TIME" başlıklı bir bölme yer alıyordu ve bu bölme grup konuşmasındaki mesajlar arasında tarih bilgisininde yer alması sebebiyle direk göze çarpmıştı. 
 
 <img src="https://github.com/gyrfaIcon/DKHOS/blob/master/3.png" alt="Liveuamap time bölmesi" />
 
