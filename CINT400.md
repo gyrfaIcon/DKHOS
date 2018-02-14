@@ -24,11 +24,9 @@ Mesajda yer alan hicri takvime göre olan tarih bilgisi miladi takvime dönüşt
 
 <img src="https://github.com/gyrfaIcon/DKHOS/blob/master/4.png" alt="Liveumap gönderi detaylar" />
 
-Gönderiyle ilgili detayların görüntülenebilmesi için gönderiye tıklandı ve yorumlar arasında Arapça dilinde "استشهد أخي" şeklinde bir yorumla karşılaşıldı.
+Gönderiyle ilgili detayların görüntülenebilmesi için gönderiye tıklandı ve yorumlar arasında Arapça dilinde "استشهد أخي" şeklinde bir yorumla karşılaşıldı. Sorunun başlığının "Arap saçına döndüm, çöz beni arap saçı" şeklinde olması bu yorumun bizi ilgilendirebileceğini düşündürdü.
 
-Yorumda yer alan metin Türkçeye çevrildi. Çeviri sonrasında bu yorumun grup sohbetindeki Arapça konuşmalarla benzer nitelikte olması doğru iz üzerinde olabileceğimizi düşündürdü. 
-
-Son olarak yorumu yapan kullanıcının profili ziyaret edildi ve bayrağa ulaşıldı. 
+Yorumda yer alan metin Türkçeye çevrildi. Çeviri sonrasında bu yorumun grup sohbetindeki Arapça konuşmalarla benzer nitelikte olmasından dolayı yorumu yapan kullanıcının profili ziyaret edildi ve bayrağa ulaşıldı. 
 
 DKHOS{b4rbuny4} 
 
